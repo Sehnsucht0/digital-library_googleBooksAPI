@@ -1,0 +1,26 @@
+.register-div {
+    flex-grow: 1;
+}
+
+.register-form {
+    position: relative;
+    left: 35vw;
+    top: 30vh;
+}
+
+.register-form label {
+    margin-right: 10px;
+    display: block;
+}
+
+input {
+    width: 10vw;
+    height: 2vh;
+    margin-bottom: 2vh;
+}
+
+.register-form button {
+    display: block;
+    height: 3vh;
+    width: 5vw;
+}

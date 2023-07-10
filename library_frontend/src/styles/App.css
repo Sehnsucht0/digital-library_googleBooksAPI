@@ -1,0 +1,20 @@
+.content {
+    display: flex;
+}
+
+.search-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1%;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 1vh;
+    height: 4vh;
+    background-color: black;
+    opacity: 0.8;
+}

@@ -1,0 +1,17 @@
+# dependencies
+library_frontend/node_modules
+Library/node_modules
+library_frontend/.pnp
+library_frontend/.pnp.js
+
+# testing
+library_frontend/coverage
+
+# production
+library_frontend/build
+
+
+library_frontend/npm-debug.log*
+library_frontend/yarn-debug.log*
+library_frontend/yarn-error.log*
+

@@ -1,0 +1,26 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1vh;
+    height: 5vh;
+    background-color: black;
+    opacity: 0.8;
+}
+
+.authentication {
+    display: flex;
+    gap: 1vw;
+}
+
+button {
+    margin-right: 5px;
+    background-color: black;
+    color: white;
+    outline: none;
+    border: none;
+}
+
+#title {
+    color: white;
+}

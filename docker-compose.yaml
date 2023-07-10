@@ -1,0 +1,15 @@
+services:
+  frontend: 
+    build:
+      context: ./library_frontend
+      dockerfile: Dockerfile
+    container_name: library_react
+    ports:
+      - 
+  backend: 
+    build:
+      context: ./Library
+      dockerfile: Dockerfile
+    container_name: library_node
+    ports:
+      - 

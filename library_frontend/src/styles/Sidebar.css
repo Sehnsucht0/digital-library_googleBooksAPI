@@ -1,0 +1,16 @@
+nav {
+    height: 200vh;
+    width: 10vw;
+    background-color: rgb(240, 235, 235);
+    color: black;
+    padding-left: 10px;
+    padding-top: 10px;
+    gap: 2vh;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 6vw;
+    margin-right: 10px;
+}

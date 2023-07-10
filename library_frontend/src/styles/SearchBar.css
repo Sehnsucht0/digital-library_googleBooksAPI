@@ -1,0 +1,19 @@
+#search-value {
+    width: 1400px;
+    height: 30px;
+}
+
+#search-button {
+    height: 30px;
+    width: 80px;
+}
+
+#search-bar {
+    display: flex;
+    padding: 3%;
+}
+
+#loading {
+    padding-left: 1%;
+    padding-top: 4px;
+}
